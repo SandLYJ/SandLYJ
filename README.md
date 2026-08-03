@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Li Yong-jun
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Master+Student+in+AI%2FML;Deep+Clustering+Researcher;Self-supervised+Learning+Enthusiast;Document+Intelligence+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=PhD+Student+in+AI%2FML;;Document+Intelligence+Researcher;" alt="Typing SVG" />
 </p>
 
 ---
