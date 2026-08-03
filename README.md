@@ -8,11 +8,15 @@
 
 🎓 **About Me**
 
-I'm currently pursuing my master's degree at the **College of Mathematics and Informatics, South China Agricultural University**. My research journey revolves around pushing the boundaries of unsupervised learning, with a specific focus on:
+I completed my master's degree at the **College of Mathematics and Informatics, South China Agricultural University  under the supervision of Prof. Huang Dong (Dean). My research journey revolves around pushing the boundaries of unsupervised learning, with a specific focus on:
 
 - 🧠 **Deep Clustering**: Exploring joint optimization of representation learning and clustering
 - 🔍 **Self-Supervised Representation Learning**: Leveraging contrastive and non-contrastive methods
 - 📈 **Machine Learning**: Developing robust algorithms for real-world applications
+
+Currently, I am pursuing my Ph.D. at Nankai University, supervised by Prof. Zhou Yu. My research has shifted toward Document Intelligence, with a growing emphasis on text recognition and its integration with broader document understanding. My current interests include:
+
+- 📄 **Document Understanding & Text Recognition**: Layout analysis, information extraction, visual-rich document parsing, and optical character recognition (OCR) / scene text recognition
 
 📬 **Get in touch**: [![Email](https://img.shields.io/badge/Email-l1730114051%40gmail.com-red?style=flat-square&logo=gmail)](mailto:l1730114051@gmail.com)
 
