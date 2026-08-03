@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Li Yong-jun
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Master+Student+in+AI%2FML;Deep+Clustering+Researcher;Self-supervised+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Master+Student+in+AI%2FML;Deep+Clustering+Researcher;Self-supervised+Learning+Enthusiast;Document+Intelligence+Researcher" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@ I completed my master's degree at the **College of Mathematics and Informatics, 
 - 🔍 **Self-Supervised Representation Learning**: Leveraging contrastive and non-contrastive methods
 - 📈 **Machine Learning**: Developing robust algorithms for real-world applications
 
-Currently, I am pursuing my Ph.D. at **Nankai University, supervised by Prof. Zhou Yu**. My research has shifted toward Document Intelligence, with a growing emphasis on text recognition and its integration with broader document understanding. My current interests include:
+Currently, I am pursuing my Ph.D. at **College of Computer Science, Nankai University, supervised by Prof. Zhou Yu**. My research has shifted toward Document Intelligence, with a growing emphasis on text recognition and its integration with broader document understanding. My current interests include:
 
 - 📄 **Document Understanding & Text Recognition**: Layout analysis, information extraction, visual-rich document parsing, and optical character recognition (OCR) / scene text recognition
 
