@@ -51,6 +51,8 @@ Currently, I am pursuing my Ph.D. at **College of Computer Science, Nankai Unive
 ```mermaid
 mindmap
   root((Research))
+    Document Intelligence
+    Text Recognition 
     Deep Clustering
       Joint Optimization
       Cluster-friendly Representation
